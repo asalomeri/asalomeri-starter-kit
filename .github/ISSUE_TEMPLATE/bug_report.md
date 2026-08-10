@@ -12,9 +12,9 @@ Describe the problem clearly and briefly.
 
 ## Steps to reproduce / خطوات إعادة التكرار
 
-1. 
-2. 
-3. 
+1. First step
+2. Second step
+3. Third step
 
 ## Expected behavior / السلوك المتوقع
 
